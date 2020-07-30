@@ -1,5 +1,4 @@
-# Radix Engenharia - BDD
-## Automação Java + Cucumber (BDD) + Selenium WebDriver
+## 👨🏻‍💻Automação Java + Cucumber (BDD) + Selenium WebDriver
 
 Behavior Driven Development (BDD ou ainda, em livre tradução, Desenvolvimento Guiado por Comportamento) é uma abordagem de design de software de forma disciplinada, abordando uma série de conceitos e técnicas sempre com foco no domínio do software.
 
@@ -25,6 +24,9 @@ Behavior Driven Development (BDD ou ainda, em livre tradução, Desenvolvimento 
  - Clicar com botão direito na class "TestRunner.java" >> "Run TestRunner"
 
  ##### 🤖Testes executados com sucesso:
+ 
+ Site utilizado para automação:
+ http://www.radixeng.com.br/
  
 ![image](https://user-images.githubusercontent.com/9616953/88954276-82273880-d270-11ea-920d-52594089a49a.png)
 
